@@ -12,6 +12,15 @@ The dataset for this project was sourced from kaggle.com as a ZIP archive contai
 4. Cleaning and
 5. Formatting
 
+## Challenges
+•	Challenge  1: Several improper casing of alphabets, a lot of misspellings, duplicates columns and rows, values errors, nulls and missing values were observed in the raw dataset.
+      o	Solution: I use MS EXCEL to perform data manipulations, transformations, cleaning and formatting
+
+•	Challenge 2: Another hurdle was loading the dataset to SQL server base, this was as a result of incorrect formatting of the CSV file to correspond with the SQL data type format
+      o	Solution: This was also handled using Excel and SQL
+
+• Challenge 3: After successive analysis in Sql, Creating successful relationships between exported files was herculian task in Power BI
+      o	Solution: This was done by noting the type of relationship between the export files and applying them
 
 
 ## HCAHPS Patient Survey Data Transformation Pipeline
