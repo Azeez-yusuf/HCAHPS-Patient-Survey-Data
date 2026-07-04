@@ -284,3 +284,58 @@ WHERE middle_box_answer = 'NULL';
 SET SQL_SAFE_UPDATES = 1;
 
 ```
+
+
+## Results/Findings
+
+### A. National Patient Experience Trend (Longitudinal Horizon Analysis)
+
+### Patient Experience Analysis: National Trends (2015–2023)
+
+This section details the analysis of national patient experience scores across a 9-year horizon (July 2015 to July 2023).
+
+##### 📊 Dataset Glossary
+Before diving into the findings, here is a brief plain-English breakdown of the core metrics analyzed:
+
+*   **Top-Box Scores (`avg_national_top_box`):** The percentage of patients who gave the highest possible rating (the "promoters" or highly satisfied patients).
+*   **Bottom-Box Scores (`avg_national_bottom_box`):** The percentage of patients who gave the lowest ratings (highly dissatisfied patients).
+*   **Period-over-Period Change (`period_over_period_chg`):** How much the top-box percentage grew or dropped compared to the previous year.
+
+---
+
+#### 📈 Executive Summary
+
+#### The Big Picture
+Between 2015 and 2021, patient satisfaction nationwide enjoyed a slow, steady upward climb, peaking at **72.3%**. However, the post-pandemic years (2022 and 2023) triggered a sharp, significant decline. Nationally, highly satisfied patient ratings dropped to an all-time low of **69.4%**, while highly dissatisfied ratings spiked to a peak of **9.6%**.
+
+#### 1. The Era of Steady Growth (2015 – 2021)
+*   **Continuous Improvement:** For six years, national patient satisfaction was on a positive trajectory. Top-box satisfaction grew from 71.0% in 2015 to a peak of 72.3% in 2020 and 2021.
+*   **Shrinking Dissatisfaction:** Concurrently, the percentage of highly dissatisfied patients steadily shrank, hitting a low of 7.9% in 2021.
+
+> **💡 Stakeholder Takeaway:** Pre-2022, healthcare systems nationwide were successfully moving the needle on patient care, likely driven by established quality initiatives and standard patient-experience protocols.
+
+#### 2. The Post-Pandemic Downturn (2022 – 2023)
+*   **The 2022 Cliff:** In July 2022, the industry experienced a severe disruption. The satisfaction rate plummeted by **1.6 percentage points** in a single year—dropping from 72.3% to 70.7%.
+*   **The Decline Deepens in 2023:** The downward momentum continued into July 2023, dropping another **1.3 percentage points** down to 69.4%.
+*   **Spike in Negative Experiences:** While satisfaction dropped, negative experiences spiked. The bottom-box score jumped from 7.9% in 2021 to 9.6% in 2023. Nearly 1 in 10 patients nationally are now reporting poor experiences.
+
+> **💡 Stakeholder Takeaway:** The compounding macro-pressures on the healthcare industry (such as severe healthcare workforce burnout, staffing shortages, and operational capacity strains during and after the pandemic) have visibly degraded the patient experience nationwide.
+
+---
+
+### 🔍 Key Trend Summary
+
+| Era | Top-Box Trend (Satisfaction) | Bottom-Box Trend (Dissatisfaction) | Primary Driver |
+| :--- | :--- | :--- | :--- |
+| **2015 – 2021** | Rose steadily from **71.0%** to a peak of **72.3%** | Shrank to a low of **7.9%** | Standardized quality protocols & care initiatives |
+| **2022 – 2023** | Plummeted sharply to an all-time low of **69.4%** | Spiked to a peak of **9.6%** (~1 in 10 patients) | Post-pandemic burnout, staffing shortages, & operational capacity strain |
+
+---
+
+### 🚀 Strategic Recommendations for the Business
+
+1. **Address Systemic Friction**
+   The sudden increase in dissatisfied patients (bottom-box) usually points to operational bottlenecks—such as longer wait times, scheduling difficulties, or communication breakdowns due to short-staffed shifts. Focus resources on smoothing out these operational hurdles.
+   
+2. **Benchmark Local Performance**
+   If your organization tracks its own internal patient experience scores over these same years, you should overlay your data on top of this national benchmark. This will help you identify whether your organization successfully resisted this national downward trend or fell victim to the same systemic declines.
