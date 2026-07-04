@@ -339,3 +339,7 @@ Between 2015 and 2021, patient satisfaction nationwide enjoyed a slow, steady up
    
 2. **Benchmark Local Performance**
    If your organization tracks its own internal patient experience scores over these same years, you should overlay your data on top of this national benchmark. This will help you identify whether your organization successfully resisted this national downward trend or fell victim to the same systemic declines.
+
+
+
+### B.
