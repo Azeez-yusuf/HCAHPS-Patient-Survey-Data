@@ -1,6 +1,19 @@
 # HCAHPS-Patient-Survey-Data
 A deep-dive exploratory data analysis (EDA) of HCAHPS patient experience surveys to identify key drivers of hospital ratings and care quality.
 
+## The Raw Data
+The dataset for this project was sourced from kaggle.com as a ZIP archive containing eight CSV files: data_dictionary.csv (The structural blueprint/metadata catalog for the entire database), reports.csv, measures.csv, national_results.csv, questions.csv, responses.csv, state_results.csv,  and states.csv. To ensure clarity, consistency, and analytical readiness, the raw data underwent a structured preprocessing phase. This involved redefining key variables, removing irrelevant columns, and engineering new fields to enhance data quality and depth.
+
+## Tools and Steps
+•EXCEL; Used for:
+1. Data loading and inspection
+2. Data manipulations
+3. Handling missing values,
+4. Cleaning and
+5. Formatting
+
+
+
 ## HCAHPS Patient Survey Data Transformation Pipeline
 
 ### MICROSOFT EXCEL PROCESSES
